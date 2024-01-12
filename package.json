@@ -10,7 +10,7 @@
     "preview": "vite preview"
   },
   "dependencies": {
-    "@tailwindcss/line-clamp": "^0.4.4",
+    
     "axios": "^1.6.5",
     "js-abbreviation-number": "^1.4.0",
     "moment": "^2.30.1",
